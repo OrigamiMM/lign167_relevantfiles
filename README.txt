@@ -1,0 +1,1 @@
+Note: for the local test, it requires the stable diffusion v1-5 github repo download with weights. Large download can be found at https://github.com/huggingface/diffusers
